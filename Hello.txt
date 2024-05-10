@@ -1,0 +1,10 @@
+Hey! If you're seeing this, you are in the right place. 
+
+Make sure you're connecting to this folder in Visual Studio Code.
+
+Once  you've connected, feel free to run the test.py file that should pop up all of the python packages you've installed for your virtual environment!
+We are almost ready to get started!!
+
+Post on the discord if you have any questions. 
+
+-Jasmine 
